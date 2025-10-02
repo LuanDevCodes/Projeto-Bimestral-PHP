@@ -46,17 +46,17 @@ O projeto consiste em um sistema de cadastro de aluno dividido em três etapas s
 
 ![Tela Inicial](screenshot-tela-inicial.png)
 
-### Iniciando o Cadastro - Estapa 1
+### Iniciando o Cadastro - Etapa 1
 
-![Resultado Final](screenshot-etapa-1.png)
+![Cadastro](screenshot-etapa-1.png)
 
-### Escolhendo as Atividades - Estapa 2
+### Escolhendo as Atividades - Etapa 2
 
-![Resultado Final](screenshot-etapa-2.png)
+![Atividadesl](screenshot-etapa-2.png)
 
-### Escolhendo a forma de pagamento - Estapa 3
+### Escolhendo a forma de pagamento - Etapa 3
 
-![Resultado Final](screenshot-etapa-3.png)
+![forma de Pagamentol](screenshot-etapa-3.png)
 
 ### Resultado Final
 
